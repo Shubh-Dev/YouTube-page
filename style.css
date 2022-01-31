@@ -14,9 +14,18 @@ body{
     margin: auto;
     overflow: hidden;
 }
+.container-1{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
+
+}
 header{
+    
     width: 100%;
-    height: 70px;
+    height: 80px;
     background-color: darkorange;
 }
 
@@ -39,6 +48,28 @@ header{
     float: right;
     background-color: forestgreen;
 }
+#branding{
+    width: 60px;
+    height: auto;
+    padding-top: 10px;
+}
 
+.hamburger{
+    float:left;
+    width: 40px;
+    height: auto;
+    margin-top: 25px;
+    padding-right: 20px;
+}
+.searchbar{
+    position: relative;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+input{
+    width: 250%;
+    border: 1px solid;
+    border-radius: 2px;
+}
 
 
