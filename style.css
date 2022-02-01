@@ -40,7 +40,7 @@ header{
     width: 40%;
     height: auto;
     float: right;
-    background-color: deeppink;
+   
 }
 
 .box-2{
@@ -81,4 +81,16 @@ header li{
     margin-left: 700px;
     margin-top: 15px;
     
+ }
+ aside li{
+     display: inline;
+     float: left;
+     padding-right: 20px;
+     margin-bottom: 10px;
+ }
+ button{
+     
+     border-radius: 15px ;
+     height: 40px;
+     background-color: #f0f0f0;
  }
