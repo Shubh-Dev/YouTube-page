@@ -88,8 +88,24 @@ header li{
      height: 150px;
  }
  button{
-     
+     border-color: lightgrey;
+     border-style: groove;
      border-radius: 15px ;
-     height: 40px;
+     height: 35px;
      background-color: #f0f0f0;
+ }
+
+ nav img{
+     width: 20px;
+     height: auto;
+ }
+ h6{
+     margin-top: 0.01em;
+ }
+ p{
+     margin-bottom: 0.15em;
+     margin-top: 0.25em;
+ }
+ h3, h4{
+     margin-top: 0.25em;
  }
