@@ -70,10 +70,10 @@ input{
 header li{
     float: left;
     display: inline;
-    padding-left: 20px;
+    padding-left: 25px;
 }
  .navbar{
-    margin-left: 600px;
+    margin-left: 130px;
     margin-top: 15px;
     
  }
@@ -109,3 +109,28 @@ header li{
  h3, h4{
      margin-top: 0.25em;
  }
+ .mic-img img{
+    width: 20px;
+    height: auto;
+     margin-left: 445px;
+     margin-top: 35px;
+ }
+ nav li #profile-img{
+    width: 27px;
+    padding-bottom: 15px;
+    margin-top: -7px;
+
+ }
+ .comments img{
+     width: 60px;
+     height: auto;
+ }
+ .comments{
+     display: flex;
+     flex-direction: row;
+ }
+ h5 {
+     margin-top: 0.20em;
+     margin-bottom: 0.10em;
+ }
+ 
